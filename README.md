@@ -1,8 +1,9 @@
 # Spider-Picturess
 
-  -> Run npm install request
-  -> Run npm install cheerio 
+  ⋅⋅* Run npm install request
   
-  -> Run node app.js
+  ⋅⋅* Run npm install cheerio 
   
-  -> Check images folder :)
+  ⋅⋅* Run node app.js
+  
+  ⋅⋅* Check images folder :)
