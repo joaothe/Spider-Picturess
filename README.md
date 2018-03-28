@@ -1,6 +1,6 @@
 # Spider-Picturess
 
-⋅⋅* Run npm install request
+* :star: Run npm install request
   
 ⋅⋅* Run npm install cheerio 
   
