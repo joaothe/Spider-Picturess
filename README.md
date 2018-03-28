@@ -1,4 +1,8 @@
 # Spider-Picturess
 
-Hello People ! Coming to remember that you need to add node modules in your project to run ! 
-Thanks :)
+  -> Run npm install request
+  -> Run npm install cheerio 
+  
+  -> Run node app.js
+  
+  -> Check images folder :)
